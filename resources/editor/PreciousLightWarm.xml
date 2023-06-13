@@ -3177,7 +3177,11 @@
     <option baseAttributes="" name="YAML_TEXT" />
     <option baseAttributes="" name="com.jetbrains.cmake.ARGUMENT_KEYWORD" />
     <option baseAttributes="" name="com.jetbrains.cmake.ARGUMENT_LITERAL" />
-    <option baseAttributes="" name="com.jetbrains.cmake.ARGUMENT_PROPERTY" />
+    <option name="com.jetbrains.cmake.ARGUMENT_PROPERTY">
+      <value>
+        <option name="FOREGROUND" value="a63d6e" />
+      </value>
+    </option>
     <option baseAttributes="" name="com.jetbrains.cmake.BRACKETS" />
     <option name="com.jetbrains.cmake.COMMAND">
       <value>
