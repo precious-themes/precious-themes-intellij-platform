@@ -172,7 +172,7 @@
     <option baseAttributes="" name="BASH.CONDITIONAL" />
     <option name="BASH.EXTERNAL_COMMAND">
       <value>
-        <option name="FOREGROUND" value="007969" />
+        <option name="FOREGROUND" value="226ea8" />
       </value>
     </option>
     <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
@@ -535,8 +535,16 @@
     <option baseAttributes="" name="DART_LABEL" />
     <option baseAttributes="" name="DART_LIBRARY_NAME" />
     <option baseAttributes="" name="DART_LINE_COMMENT" />
-    <option baseAttributes="" name="DART_LOCAL_FUNCTION_DECLARATION" />
-    <option baseAttributes="" name="DART_LOCAL_FUNCTION_REFERENCE" />
+    <option name="DART_LOCAL_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="226ea8" />
+      </value>
+    </option>
+    <option name="DART_LOCAL_FUNCTION_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="226ea8" />
+      </value>
+    </option>
     <option baseAttributes="" name="DART_LOCAL_FUNCTION_TEAR_OFF" />
     <option baseAttributes="" name="DART_LOCAL_VARIABLE_DECLARATION" />
     <option baseAttributes="" name="DART_LOCAL_VARIABLE_REFERENCE" />
@@ -661,7 +669,9 @@
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="226ea8" />
+      </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
@@ -989,7 +999,7 @@
     </option>
     <option name="GO_BUILTIN_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="6d538d" />
+        <option name="FOREGROUND" value="8151b0" />
       </value>
     </option>
     <option name="GO_BUILTIN_TYPE_REFERENCE">
@@ -1014,7 +1024,7 @@
     <option baseAttributes="" name="GO_EXPORTED_FUNCTION" />
     <option name="GO_EXPORTED_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="396489" />
+        <option name="FOREGROUND" value="226ea8" />
       </value>
     </option>
     <option baseAttributes="" name="GO_EXPORTED_INTERFACE_REFERENCE" />
@@ -1029,7 +1039,7 @@
     <option baseAttributes="" name="GO_LOCAL_FUNCTION" />
     <option name="GO_LOCAL_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="396489" />
+        <option name="FOREGROUND" value="226ea8" />
       </value>
     </option>
     <option baseAttributes="" name="GO_LOCAL_INTERFACE_REFERENCE" />
@@ -1068,9 +1078,17 @@
       </value>
     </option>
     <option baseAttributes="" name="GO_STRING" />
-    <option baseAttributes="" name="GO_STRUCT_EXPORTED_MEMBER" />
+    <option name="GO_STRUCT_EXPORTED_MEMBER">
+      <value>
+        <option name="FOREGROUND" value="a63d6e" />
+      </value>
+    </option>
     <option baseAttributes="" name="GO_STRUCT_EXPORTED_MEMBER_CALL" />
-    <option baseAttributes="" name="GO_STRUCT_LOCAL_MEMBER" />
+    <option name="GO_STRUCT_LOCAL_MEMBER">
+      <value>
+        <option name="FOREGROUND" value="a63d6e" />
+      </value>
+    </option>    
     <option baseAttributes="" name="GO_STRUCT_LOCAL_MEMBER_CALL" />
     <option baseAttributes="" name="GO_TAG_COLON" />
     <option baseAttributes="" name="GO_TAG_KEY" />
@@ -1354,16 +1372,10 @@
     <option baseAttributes="" name="JS.FUNCTION_ARROW" />
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FONT_TYPE" value="2" />
         <option name="FOREGROUND" value="226ea8" />
       </value>
     </option>
-    <option name="JS.GLOBAL_VARIABLE">
-      <value>
-        <option name="FONT_TYPE" value="2" />
-        <option name="FOREGROUND" value="a63d6e" />
-      </value>
-    </option>
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option baseAttributes="" name="JS.INSTANCE_MEMBER_VARIABLE" />
     <option baseAttributes="" name="JS.INTERFACE" />
@@ -1385,7 +1397,7 @@
     <option baseAttributes="" name="JS.PRIMITIVE.TYPE" />
     <option name="JS.REGEXP">
       <value>
-        <option name="FOREGROUND" value="4866b4" />
+        <option name="FOREGROUND" value="39773d" />
       </value>
     </option>
     <option baseAttributes="" name="JS.SEMICOLON" />
@@ -1469,7 +1481,9 @@
     <option baseAttributes="" name="KOTLIN_DSL_STYLE3" />
     <option baseAttributes="" name="KOTLIN_DSL_STYLE4" />
     <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="226ea8" />
+      </value>
     </option>
     <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
       <value>
@@ -1479,7 +1493,9 @@
     <option baseAttributes="" name="KOTLIN_ENUM" />
     <option baseAttributes="" name="KOTLIN_ENUM_ENTRY" />
     <option name="KOTLIN_EXTENSION_FUNCTION_CALL">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="226ea8" />
+      </value>
     </option>
     <option name="KOTLIN_EXTENSION_PROPERTY">
       <value>
@@ -1515,11 +1531,7 @@
     <option baseAttributes="" name="KOTLIN_NUMBER" />
     <option baseAttributes="" name="KOTLIN_OBJECT" />
     <option baseAttributes="" name="KOTLIN_OPERATION_SIGN" />
-    <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
-      <value>
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
+    <option baseAttributes="" name="KOTLIN_PACKAGE_FUNCTION_CALL" />
     <option baseAttributes="" name="KOTLIN_PACKAGE_PROPERTY" />
     <option baseAttributes="" name="KOTLIN_PACKAGE_PROPERTY_CUSTOM_PROPERTY_DECLARATION" />
     <option baseAttributes="" name="KOTLIN_PARAMETER" />
@@ -1752,7 +1764,11 @@
     <option baseAttributes="" name="MONGODB.JSON.PROPERTY_KEY" />
     <option baseAttributes="" name="MONGODB.JSON.STRING" />
     <option baseAttributes="" name="MONGODB.JSON.VALID_ESCAPE" />
-    <option baseAttributes="" name="Map key" />
+    <option name="Map key">
+      <value>
+        <option name="FOREGROUND" value="5861b6" />
+      </value>
+    </option>
     <option baseAttributes="" name="Method call" />
     <option baseAttributes="" name="NG.BANANA_BINDING_ATTR_NAME" />
     <option baseAttributes="" name="NG.EVENT_BINDING_ATTR_NAME" />
@@ -1870,15 +1886,15 @@
     </option>
     <option baseAttributes="" name="PHP_FUNCTION" />
     <option name="PHP_FUNCTION_CALL">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="226ea8" />
+      </value>
     </option>
     <option baseAttributes="" name="PHP_HEREDOC_CONTENT" />
     <option baseAttributes="" name="PHP_HEREDOC_ID" />
     <option baseAttributes="" name="PHP_IDENTIFIER" />
     <option baseAttributes="" name="PHP_INSTANCE_FIELD" />
-    <option name="PHP_INSTANCE_METHOD">
-      <value />
-    </option>
+    <option baseAttributes="" name="PHP_INSTANCE_METHOD" />
     <option baseAttributes="" name="PHP_INTERFACE" />
     <option baseAttributes="" name="PHP_KEYWORD" />
     <option baseAttributes="" name="PHP_MARKUP_ID" />
@@ -1902,11 +1918,7 @@
     <option baseAttributes="" name="PHP_SCRIPTING_BACKGROUND" />
     <option baseAttributes="" name="PHP_SEMICOLON" />
     <option baseAttributes="" name="PHP_STATIC_FIELD" />
-    <option name="PHP_STATIC_METHOD">
-      <value>
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
+    <option baseAttributes="" name="PHP_STATIC_METHOD" />
     <option baseAttributes="" name="PHP_STRING" />
     <option baseAttributes="" name="PHP_TAG" />
     <option name="PHP_THIS_VAR">
@@ -1987,14 +1999,14 @@
     <option baseAttributes="" name="PROTO_VALID_STRING_ESCAPE" />
     <option name="PY.ANNOTATION">
       <value>
-        <option name="FOREGROUND" value="366a62" />
+        <option name="FOREGROUND" value="007969" />
       </value>
     </option>
     <option baseAttributes="" name="PY.BRACES" />
     <option baseAttributes="" name="PY.BRACKETS" />
     <option name="PY.BUILTIN_NAME">
       <value>
-        <option name="FOREGROUND" value="6d538d" />
+        <option name="FOREGROUND" value="8151b0" />
       </value>
     </option>
     <option baseAttributes="" name="PY.CLASS_DEFINITION" />
@@ -2806,11 +2818,7 @@
     <option baseAttributes="" name="STATIC_FIELD_IMPORTED_ATTRIBUTES" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option baseAttributes="" name="STATIC_FINAL_FIELD_IMPORTED_ATTRIBUTES" />
-    <option name="STATIC_METHOD_ATTRIBUTES">
-      <value>
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
+    <option baseAttributes="" name="STATIC_METHOD_ATTRIBUTES" />
     <option baseAttributes="" name="STATIC_METHOD_IMPORTED_ATTRIBUTES" />
     <option name="SUGGESTION">
       <value>
@@ -3173,7 +3181,7 @@
     <option baseAttributes="" name="com.jetbrains.cmake.BRACKETS" />
     <option name="com.jetbrains.cmake.COMMAND">
       <value>
-        <option name="FOREGROUND" value="007969" />
+        <option name="FOREGROUND" value="226ea8" />
       </value>
     </option>
     <option baseAttributes="" name="com.jetbrains.cmake.INVALID_STRING_ESCAPE" />
