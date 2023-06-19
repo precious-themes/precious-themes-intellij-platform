@@ -790,8 +790,8 @@
       "errorForeground": "#fd807b"
     },
     "SearchMatch": {
-      "endBackground": "#cfa544b3",
-      "startBackground": "#cfa544b3"
+      "endBackground": "#9eb561b3",
+      "startBackground": "#9eb561b3"
     },
     "SearchOption": {
       "selectedBackground": "#2d363f",
@@ -809,7 +809,7 @@
     },
     "Settings": {
       "Spotlight": {
-        "borderColor": "#cfa54464"
+        "borderColor": "#9eb56164"
       }
     },
     "SettingsTree": {

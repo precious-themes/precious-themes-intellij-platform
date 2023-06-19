@@ -2912,9 +2912,9 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="e2debb" />
-        <option name="EFFECT_COLOR" value="8a7b14" />
-        <option name="ERROR_STRIPE_COLOR" value="70a8da" />
+        <option name="BACKGROUND" value="d5e1bd" />
+        <option name="EFFECT_COLOR" value="6b8220" />
+        <option name="ERROR_STRIPE_COLOR" value="96aa62" />
       </value>
     </option>
     <option name="TEXT_STYLE_ERROR">
