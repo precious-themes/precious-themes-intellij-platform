@@ -150,6 +150,31 @@
   <attributes>
     <option baseAttributes="" name="ABSTRACT_CLASS_NAME_ATTRIBUTES" />
     <option baseAttributes="" name="ABSTRACT_METHOD_ATTRIBUTES" />
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="be9ce7" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="79b1e3" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="65bdab" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="dd9c44" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="f181b0" />
+      </value>
+    </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value />
     </option>
@@ -1221,6 +1246,41 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="INDENT_RAINBOW_COLOR_1_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="26252d" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="20272d" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="202728" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="232723" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="292521" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="2b2328" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="2d2325" />
+      </value>
+    </option>
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="3f4041" />
@@ -2057,6 +2117,31 @@
     <option baseAttributes="" name="PY.STRING.U" />
     <option baseAttributes="" name="PY.VALID_STRING_ESCAPE" />
     <option baseAttributes="" name="Parentheses" />
+    <option name="RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="be9ce7" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="79b1e3" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="65bdab" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="dd9c44" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="f181b0" />
+      </value>
+    </option>
     <option baseAttributes="" name="QL_ATTRIBUTE" />
     <option baseAttributes="" name="QL_BAD_CHARACTER" />
     <option baseAttributes="" name="QL_COMMA" />
@@ -2164,6 +2249,31 @@
       <value>
         <option name="BACKGROUND" value="2d2825" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="be9ce7" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="79b1e3" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="65bdab" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="dd9c44" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="f181b0" />
       </value>
     </option>
     <option baseAttributes="" name="RUBY_BAD_CHARACTER" />
@@ -2897,6 +3007,56 @@
     <option baseAttributes="" name="Static method access" />
     <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
     <option baseAttributes="" name="String" />
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="be9ce7" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="79b1e3" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="65bdab" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="dd9c44" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="f181b0" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="be9ce7" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="79b1e3" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="65bdab" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="dd9c44" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="f181b0" />
+      </value>
+    </option>
     <option baseAttributes="" name="TAG_ATTR_KEY" />
     <option baseAttributes="" name="TDIFF_EXCLUDED_COLUMN" />
     <option baseAttributes="" name="TDIFF_FUZZY_MATCHED" />
