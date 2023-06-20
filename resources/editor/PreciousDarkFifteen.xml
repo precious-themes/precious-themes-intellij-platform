@@ -2636,7 +2636,7 @@
     <option baseAttributes="" name="ReSharper.FSHARP_VALUE_IDENTIFIER" />
     <option name="ReSharper.HINT">
       <value>
-        <option name="EFFECT_COLOR" value="74a869" />
+        <option name="EFFECT_COLOR" value="649fd2" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -2930,13 +2930,6 @@
     <option baseAttributes="" name="STATIC_FINAL_FIELD_IMPORTED_ATTRIBUTES" />
     <option baseAttributes="" name="STATIC_METHOD_ATTRIBUTES" />
     <option baseAttributes="" name="STATIC_METHOD_IMPORTED_ATTRIBUTES" />
-    <option name="SUGGESTION">
-      <value>
-        <option name="EFFECT_COLOR" value="74a869" />
-        <option name="EFFECT_TYPE" value="2" />
-        <option name="ERROR_STRIPE_COLOR" value="557d4d" />
-      </value>
-    </option>
     <option baseAttributes="" name="Scala Abstract class" />
     <option baseAttributes="" name="Scala Annotation attribute name" />
     <option baseAttributes="" name="Scala Annotation name" />
@@ -3055,6 +3048,13 @@
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR4">
       <value>
         <option name="FOREGROUND" value="f181b0" />
+      </value>
+    </option>
+    <option name="SUGGESTION">
+      <value>
+        <option name="EFFECT_COLOR" value="649fd2" />
+        <option name="ERROR_STRIPE_COLOR" value="4a779e" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option baseAttributes="" name="TAG_ATTR_KEY" />
