@@ -1,8 +1,8 @@
-<idea-plugin>
+<idea-plugin url="https://github.com/4lex4/precious-themes-intellij-platform">
   <name>Precious Themes</name>
-  <id>com.4lex4.precious-theme-intellij-platform</id>
+  <id>com.4lex4.precious-themes-intellij-platform</id>
   <version>231.0</version>
-  <vendor email="4lex49@zoho.com" url="https://github.com/4lex4/precious-theme-intellij-platform">4lex4</vendor>
+  <vendor email="4lex49@zoho.com">4lex4</vendor>
   <category>UI</category>
 
   <description>
