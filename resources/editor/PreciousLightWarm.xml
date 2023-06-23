@@ -12,7 +12,7 @@
     <option name="Bookmark.Mnemonic.iconForeground" value="4e5359" />
     <option name="Bookmark.iconBackground" value="ad8e46" />
     <option name="CARET_COLOR" value="4e5359" />
-    <option name="CARET_ROW_COLOR" value="f6f0e8" />
+    <option name="CARET_ROW_COLOR" value="f9efe0" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fff5e5" />
     <option name="DELETED_LINES_COLOR" value="757b8c" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="9d9e44" />
@@ -2111,7 +2111,7 @@
     </option>
     <option name="PY.STRING.B">
       <value>
-        <option name="FOREGROUND" value="48752b" />
+        <option name="FOREGROUND" value="4d7426" />
       </value>
     </option>
     <option baseAttributes="" name="PY.STRING.U" />
