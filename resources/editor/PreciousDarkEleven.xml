@@ -212,7 +212,7 @@
     <option baseAttributes="" name="BASH.REDIRECTION" />
     <option name="BASH.SHEBANG">
       <value>
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="3" />
         <option name="FOREGROUND" value="858585" />
       </value>
     </option>
@@ -1457,7 +1457,7 @@
     <option baseAttributes="" name="JS.PRIMITIVE.TYPE" />
     <option name="JS.REGEXP">
       <value>
-        <option name="FOREGROUND" value="80bb81" />
+        <option name="FOREGROUND" value="90b86f" />
       </value>
     </option>
     <option baseAttributes="" name="JS.SEMICOLON" />
@@ -1886,7 +1886,7 @@
     <option name="OC.MACRONAME">
       <value>
         <option name="FONT_TYPE" value="1" />
-        <option name="FOREGROUND" value="df9b44" />
+        <option name="FOREGROUND" value="cfa543" />
       </value>
     </option>
     <option baseAttributes="" name="OC.NAMESPACE_LIKE" />
@@ -2491,7 +2491,7 @@
     <option name="ReSharper.CPP_PREPROCESSOR_MACRO_IDENTIFIER">
       <value>
         <option name="FONT_TYPE" value="1" />
-        <option name="FOREGROUND" value="df9b44" />
+        <option name="FOREGROUND" value="cfa543" />
       </value>
     </option>
     <option name="ReSharper.CPP_PREPROCESSOR_MACRO_PARAMETER_IDENTIFIER">
@@ -3429,13 +3429,13 @@
     <option baseAttributes="" name="org.rust.KEYWORD_UNSAFE" />
     <option name="org.rust.LIFETIME">
       <value>
+        <option name="FOREGROUND" value="9ba7ed" />
         <option name="FONT_TYPE" value="2" />
-        <option name="FOREGROUND" value="65bdab" />
       </value>
     </option>
     <option name="org.rust.MACRO">
       <value>
-        <option name="FOREGROUND" value="df9b44" />
+        <option name="FOREGROUND" value="cfa543" />
       </value>
     </option>
     <option baseAttributes="" name="org.rust.METHOD" />
