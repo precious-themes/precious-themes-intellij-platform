@@ -1,41 +1,27 @@
-<idea-plugin url="https://github.com/4lex4/precious-themes-intellij-platform">
+<idea-plugin url="https://github.com/precious-themes/precious-themes-intellij-platform">
   <name>Precious Themes</name>
   <id>com.4lex4.precious-themes-intellij-platform</id>
   <version>231.0</version>
   <vendor email="4lex49@zoho.com">4lex4</vendor>
   <category>UI</category>
-
   <description>
     <![CDATA[
-Precious themes for IDEs based on IntelliJ platform.
-<br/>
-<br/>
-The palette of precious themes is created via the Oklab perceptual color space.
-<br/>
-<br/>
-Properties:
-<ul>
-  <li>The colors have approximately equal perceived lightness and contrast against the background.</li>
-  <li>The foreground has the same contrast against the background as the colors.</li>
-</ul>
+    <p>
+      Implementation of <a href="https://github.com/precious-themes">precious themes</a> for JetBrains' IntelliJ Platform.
+    </p>
     ]]>
   </description>
-
   <change-notes>
     <![CDATA[
-<b>231.0</b>
-<br/>
-<ul>
-  <li>Initial release for 2023.1</li>
-</ul>
-<br/>
+    <p style='font-weight: bold'>231.0</p>
+    <p>
+      <ul>
+        <li>Initial release for 2023.1</li>
+      </ul>
+    </p>
     ]]>
   </change-notes>
-
   <idea-version since-build="192"/>
-
-  <depends>com.intellij.modules.lang</depends>
-
   <extensions defaultExtensionNs="com.intellij">
     <themeProvider id="cf8dd7f1-3311-4ac5-a4a3-d752511d7adf" path="/PreciousLightWhite.theme.json"/>
     <themeProvider id="6970a7f7-bfda-4dfe-a266-4a63a5c2e9a4" path="/PreciousLightWarm.theme.json"/>
