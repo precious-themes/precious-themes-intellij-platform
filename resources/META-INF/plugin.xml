@@ -22,6 +22,7 @@
     ]]>
   </change-notes>
   <idea-version since-build="192"/>
+  <depends>com.intellij.modules.platform</depends>
   <extensions defaultExtensionNs="com.intellij">
     <themeProvider id="cf8dd7f1-3311-4ac5-a4a3-d752511d7adf" path="/PreciousLightWhite.theme.json"/>
     <themeProvider id="6970a7f7-bfda-4dfe-a266-4a63a5c2e9a4" path="/PreciousLightWarm.theme.json"/>
