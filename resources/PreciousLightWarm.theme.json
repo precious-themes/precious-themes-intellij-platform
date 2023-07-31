@@ -108,6 +108,12 @@
       "iconHoverAlpha": ""
     },
     "Button": {
+      "Split": {
+        "default": {
+          "iconColor": "white",
+          "separatorColor": "#85a8df"
+        }
+      },
       "arc": "",
       "background": "panel",
       "default": {
@@ -418,6 +424,9 @@
       "selectionInactiveBackground": "grey11",
       "selectionInactiveForeground": "foreground"
     },
+    "MainMenu": {
+      "transparentSelectionBackground": "selectionBackground"
+    },
     "MainToolbar": {
       "Dropdown": {
         "maxWidth": ""
@@ -426,6 +435,9 @@
       "separatorColor": ""
     },
     "MainWindow": {
+      "FullScreeControl": {
+        "Background": "#7b7d82"
+      },
       "Tab": {
         "background": "grey12",
         "borderColor": "grey09",
@@ -600,6 +612,7 @@
       "eapTagBackground": "#f4d1c5",
       "hoverBackground": "#eeece6",
       "lightSelectionBackground": "#eeece6",
+      "suggestedLabelBackground": "#d2dcc4",
       "tagBackground": "grey14",
       "tagForeground": "infoPanelForeground"
     },
@@ -684,6 +697,9 @@
       "warningColor": "#a27f2c",
       "warningEndColor": "#ceba90"
     },
+    "ProgressIcon": {
+      "color": "#a9abb5"
+    },
     "RadioButton": {
       "background": "panel",
       "disabledText": "disabledForeground",
@@ -713,9 +729,11 @@
     "RunWidget": {
       "foreground": "black",
       "hoverBackground": "#4e535919",
+      "iconColor": "white",
       "pressedBackground": "#4e535928",
-      "runModeIconColor": "#709f56",
-      "runningBackground": "#638f49",
+      "runIconColor": "#709f56",
+      "runningBackground": "#849b42",
+      "runningIconColor": "white",
       "stopBackground": "#cb635e"
     },
     "ScrollBar": {
@@ -1033,6 +1051,7 @@
       },
       "background": "contentBackground",
       "errorForeground": "#b14645",
+      "forceFocusedSelectionForeground": false,
       "foreground": "foreground",
       "hash": "grey13",
       "hoverBackground": "#eeece6",
@@ -1116,6 +1135,11 @@
     "WelcomeScreen": {
       "Details": {
         "background": "white"
+      },
+      "LearnTab": {
+        "CourseCard": {
+          "hover": ""
+        }
       },
       "Projects": {
         "actions": {

@@ -16,7 +16,7 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="1c1e20" />
     <option name="DELETED_LINES_COLOR" value="8a8d9e" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="7a7900" />
-    <option name="DIAGRAM_BAD_EDGE" value="e57363" />
+    <option name="DIAGRAM_BAD_EDGE" value="e47363" />
     <option name="DIAGRAM_BEND" value="494a4c" />
     <option name="DIAGRAM_BEND_SELECTION" value="33752e" />
     <option name="DIAGRAM_COARSE_GRID" value="292b2d" />
@@ -44,16 +44,16 @@
     <option name="DOCUMENTATION_COLOR" value="1c1e20" />
     <option name="DOC_COMMENT_GUIDE" value="292b2d" />
     <option name="DOC_COMMENT_LINK" value="5280aa" />
-    <option name="ERROR_HINT" value="322727" />
+    <option name="ERROR_HINT" value="312727" />
     <option name="FILESTATUS_ADDED" value="83b965" />
     <option name="FILESTATUS_COPIED" value="83b965" />
     <option name="FILESTATUS_DELETED" value="929191" />
     <option name="FILESTATUS_HIJACKED" value="d0a543" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="c396f3" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9b8e3e" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff8782" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff8782" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff8782" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff8882" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff8882" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff8882" />
     <option name="FILESTATUS_MERGED" value="c396f3" />
     <option name="FILESTATUS_MODIFIED" value="68b0ee" />
     <option name="FILESTATUS_NOT_CHANGED" value="" />
@@ -65,7 +65,7 @@
     <option name="FILESTATUS_SWITCHED" value="409a8a" />
     <option name="FILESTATUS_UNKNOWN" value="ea9755" />
     <option name="FILESTATUS_addedOutside" value="719959" />
-    <option name="FILESTATUS_changelistConflict" value="ce716c" />
+    <option name="FILESTATUS_changelistConflict" value="cd716c" />
     <option name="FILESTATUS_modifiedOutside" value="5990c0" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="292b2d" />
     <option name="GUTTER_BACKGROUND" value="1c1e20" />
@@ -187,7 +187,7 @@
     <option name="BACKGROUND" value="26292e" baseAttributes="" />
     <option name="BAD_CHARACTER">
       <value>
-        <option name="EFFECT_COLOR" value="e9736e" />
+        <option name="EFFECT_COLOR" value="e9736f" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -318,7 +318,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff8782" />
+        <option name="FOREGROUND" value="ff8882" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
@@ -362,12 +362,12 @@
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
       <value>
         <option name="FONT_TYPE" value="1" />
-        <option name="FOREGROUND" value="ff8782" />
+        <option name="FOREGROUND" value="ff8882" />
       </value>
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff8782" />
+        <option name="FOREGROUND" value="ff8882" />
       </value>
     </option>
     <option baseAttributes="" name="CONSOLE_SELECTED_PARAMETER" />
@@ -469,7 +469,7 @@
     </option>
     <option name="CodeWithMe.USER_2_MARKER">
       <value>
-        <option name="BACKGROUND" value="c95654" />
+        <option name="BACKGROUND" value="c85654" />
         <option name="FOREGROUND" value="1c1e20" />
       </value>
     </option>
@@ -728,7 +728,7 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="EFFECT_COLOR" value="e9736e" />
+        <option name="EFFECT_COLOR" value="e9736f" />
         <option name="EFFECT_TYPE" value="2" />
         <option name="FOREGROUND" value="9bb553" />
       </value>
@@ -925,7 +925,7 @@
     <option baseAttributes="" name="ENUM_NAME_ATTRIBUTES" />
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="e9736e" />
+        <option name="EFFECT_COLOR" value="e9736f" />
         <option name="EFFECT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="ab524f" />
       </value>
@@ -950,9 +950,9 @@
     <option baseAttributes="" name="Enum name" />
     <option name="FILESTATUS_ERRORS">
       <value>
-        <option name="EFFECT_COLOR" value="e57363" />
+        <option name="EFFECT_COLOR" value="e47363" />
         <option name="EFFECT_TYPE" value="2" />
-        <option name="ERROR_STRIPE_COLOR" value="c4534f" />
+        <option name="ERROR_STRIPE_COLOR" value="c4534e" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -1142,7 +1142,7 @@
     <option baseAttributes="" name="GQL_STRING_LITERAL" />
     <option name="GRAMMAR_ERROR">
       <value>
-        <option name="EFFECT_COLOR" value="533535" />
+        <option name="EFFECT_COLOR" value="543535" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -1706,7 +1706,7 @@
     </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff8782" />
+        <option name="FOREGROUND" value="ff8882" />
       </value>
     </option>
     <option name="LOG_EXPIRED_ENTRY">
@@ -1795,7 +1795,7 @@
     <option baseAttributes="" name="MARKDOWN_TEXT" />
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="e9736e" />
+        <option name="EFFECT_COLOR" value="e9736f" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -2399,7 +2399,7 @@
     </option>
     <option name="ReSharper.ASP_NET_RUN_AT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="f78f68" />
+        <option name="FOREGROUND" value="f78f69" />
       </value>
     </option>
     <option name="ReSharper.ASSEMBLY_EXPLORER_ADDITIONAL_INFORMATION">
@@ -3278,7 +3278,7 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff8782" />
+        <option name="FOREGROUND" value="ff8882" />
       </value>
     </option>
     <option baseAttributes="" name="XML:INJECTED_LANGUAGE_FRAGMENT" />

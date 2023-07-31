@@ -108,6 +108,12 @@
       "iconHoverAlpha": ""
     },
     "Button": {
+      "Split": {
+        "default": {
+          "iconColor": "white",
+          "separatorColor": "#48689c"
+        }
+      },
       "arc": "",
       "background": "panel",
       "default": {
@@ -226,9 +232,9 @@
       "Variables": {
         "changedValueForeground": "#68b0ee",
         "collectingDataForeground": "grey04",
-        "errorMessageForeground": "#ff8782",
+        "errorMessageForeground": "#ff8882",
         "evaluatingExpressionForeground": "grey04",
-        "exceptionForeground": "#ff8782",
+        "exceptionForeground": "#ff8882",
         "modifyingValueForeground": "#68b0ee",
         "typeForeground": "grey02",
         "valueForeground": "#d8a6a2"
@@ -299,7 +305,7 @@
       "Gray": "grey14",
       "Green": "#232c24",
       "Orange": "#302824",
-      "Rose": "#322727",
+      "Rose": "#312727",
       "Violet": "#2b2934",
       "Yellow": "#2c2a21"
     },
@@ -373,7 +379,7 @@
       "background": "panel",
       "disabledForeground": "disabledForeground",
       "disabledText": "disabledForeground",
-      "errorForeground": "#ff8782",
+      "errorForeground": "#ff8882",
       "foreground": "foreground",
       "infoForeground": "infoPanelForeground",
       "selectedForeground": "foreground",
@@ -418,6 +424,9 @@
       "selectionInactiveBackground": "grey11",
       "selectionInactiveForeground": "foreground"
     },
+    "MainMenu": {
+      "transparentSelectionBackground": "selectionBackground"
+    },
     "MainToolbar": {
       "Dropdown": {
         "maxWidth": ""
@@ -426,6 +435,9 @@
       "separatorColor": ""
     },
     "MainWindow": {
+      "FullScreeControl": {
+        "Background": "#88888d"
+      },
       "Tab": {
         "background": "grey12",
         "borderColor": "grey09",
@@ -600,6 +612,7 @@
       "eapTagBackground": "#47302f",
       "hoverBackground": "#20272f",
       "lightSelectionBackground": "#20272f",
+      "suggestedLabelBackground": "#2b3b2e",
       "tagBackground": "grey14",
       "tagForeground": "infoPanelForeground"
     },
@@ -670,8 +683,8 @@
     },
     "ProgressBar": {
       "background": "panel",
-      "failedColor": "#db6864",
-      "failedEndColor": "#863735",
+      "failedColor": "#da6864",
+      "failedEndColor": "#853735",
       "foreground": "foreground",
       "indeterminateEndColor": "#4e8fcf",
       "indeterminateStartColor": "#385371",
@@ -683,6 +696,9 @@
       "trackColor": "grey08",
       "warningColor": "#ae861c",
       "warningEndColor": "#614f28"
+    },
+    "ProgressIcon": {
+      "color": "#595d6a"
     },
     "RadioButton": {
       "background": "panel",
@@ -713,9 +729,11 @@
     "RunWidget": {
       "foreground": "black",
       "hoverBackground": "#b8b7b619",
+      "iconColor": "white",
       "pressedBackground": "#b8b7b628",
-      "runModeIconColor": "#5b8b3d",
-      "runningBackground": "#6b9b4e",
+      "runIconColor": "#5b8b3d",
+      "runningBackground": "#708627",
+      "runningIconColor": "white",
       "stopBackground": "#d86a65"
     },
     "ScrollBar": {
@@ -787,7 +805,7 @@
     },
     "SearchField": {
       "errorBackground": "#4b2f2d",
-      "errorForeground": "#ff8782"
+      "errorForeground": "#ff8882"
     },
     "SearchMatch": {
       "endBackground": "#9bb553b3",
@@ -832,7 +850,7 @@
     "SpeedSearch": {
       "background": "contentBackground",
       "borderColor": "border",
-      "errorForeground": "#ff8782",
+      "errorForeground": "#ff8882",
       "foreground": "foreground"
     },
     "Spinner": {
@@ -1032,7 +1050,8 @@
         "arc": ""
       },
       "background": "contentBackground",
-      "errorForeground": "#ff8782",
+      "errorForeground": "#ff8882",
+      "forceFocusedSelectionForeground": false,
       "foreground": "foreground",
       "hash": "grey13",
       "hoverBackground": "#20272f",
@@ -1053,7 +1072,7 @@
       }
     },
     "ValidationTooltip": {
-      "errorBackground": "#322727",
+      "errorBackground": "#312727",
       "errorBorderColor": "#774745",
       "warningBackground": "#2c2922",
       "warningBorderColor": "#635231"
@@ -1116,6 +1135,11 @@
     "WelcomeScreen": {
       "Details": {
         "background": "white"
+      },
+      "LearnTab": {
+        "CourseCard": {
+          "hover": ""
+        }
       },
       "Projects": {
         "actions": {
