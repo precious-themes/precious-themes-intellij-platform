@@ -1,7 +1,7 @@
 <idea-plugin url="https://github.com/precious-themes/precious-themes-intellij-platform">
   <name>Precious Themes</name>
   <id>com.4lex4.precious-themes-intellij-platform</id>
-  <version>231.0</version>
+  <version>232.0</version>
   <vendor email="4lex49@zoho.com">4lex4</vendor>
   <category>UI</category>
   <description>
@@ -16,7 +16,8 @@
     <p style='font-weight: bold'>231.0</p>
     <p>
       <ul>
-        <li>Initial release for 2023.1</li>
+        <li>Update for 2023.2</li>
+        <li>Improve color palette</li>
       </ul>
     </p>
     ]]>
