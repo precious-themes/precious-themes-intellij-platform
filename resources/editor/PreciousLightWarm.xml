@@ -1699,6 +1699,96 @@
       </value>
     </option>
     <option baseAttributes="" name="LOCAL_VARIABLE_ATTRIBUTES" />
+    <option name="LOGCAT_FILTER_KEY">
+      <value>
+        <option name="FOREGROUND" value="4e5359" />
+        <option name="BACKGROUND" value="e5e8d4" />
+      </value>
+    </option>
+    <option name="LOGCAT_FILTER_KVALUE">
+      <value>
+        <option name="FOREGROUND" value="4e5359" />
+        <option name="BACKGROUND" value="e5e8d4" />
+      </value>
+    </option>
+    <option name="LOGCAT_FILTER_REGEX_KVALUE">
+      <value>
+        <option name="FOREGROUND" value="4e5359" />
+        <option name="BACKGROUND" value="e5e8d4" />
+      </value>
+    </option>
+    <option name="LOGCAT_FILTER_STRING_KVALUE">
+      <value>
+        <option name="FOREGROUND" value="4e5359" />
+        <option name="BACKGROUND" value="e5e8d4" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_LEVEL_ASSERT">
+      <value>
+        <option name="FOREGROUND" value="4e5359" />
+        <option name="BACKGROUND" value="f8baaf" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_LEVEL_DEBUG">
+      <value>
+        <option name="FOREGROUND" value="4e5359" />
+        <option name="BACKGROUND" value="add2c4" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_LEVEL_ERROR">
+      <value>
+        <option name="FOREGROUND" value="fff5e5" />
+        <option name="BACKGROUND" value="db706b" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_LEVEL_INFO">
+      <value>
+        <option name="FOREGROUND" value="4e5359" />
+        <option name="BACKGROUND" value="bcd2a7" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_LEVEL_VERBOSE">
+      <value>
+        <option name="FOREGROUND" value="4e5359" />
+        <option name="BACKGROUND" value="c7c2b9" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_LEVEL_WARNING">
+      <value>
+        <option name="FOREGROUND" value="4e5359" />
+        <option name="BACKGROUND" value="ddc79d" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_ASSERT">
+      <value>
+        <option name="FOREGROUND" value="b14645" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_DEBUG">
+      <value>
+        <option name="FOREGROUND" value="137767" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_ERROR">
+      <value>
+        <option name="FOREGROUND" value="b14645" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_INFO">
+      <value>
+        <option name="FOREGROUND" value="48762a" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_VERBOSE">
+      <value>
+        <option name="FOREGROUND" value="4e5359" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_WARNING">
+      <value>
+        <option name="FOREGROUND" value="876500" />
+      </value>
+    </option>
     <option name="LOG_DEBUG_OUTPUT">
       <value>
         <option name="FOREGROUND" value="137767" />
@@ -1726,7 +1816,7 @@
     </option>
     <option name="LOG_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="a25600" />
+        <option name="FOREGROUND" value="876500" />
       </value>
     </option>
     <option baseAttributes="" name="LOMBOK_CLEAN" />
