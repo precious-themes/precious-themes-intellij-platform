@@ -24,7 +24,7 @@
     <option name="DIAGRAM_EDGE_SELECTION" value="8e7425" />
     <option name="DIAGRAM_FINE_GRID" value="26292e" />
     <option name="DIAGRAM_GENERALIZATION_EDGE" value="83a9fb" />
-    <option name="DIAGRAM_HIGHLIGHTED_NODE_BORDER" value="c474c1" />
+    <option name="DIAGRAM_HIGHLIGHTED_NODE_BORDER" value="c473c1" />
     <option name="DIAGRAM_HOT_SPOTS" value="4f5154" />
     <option name="DIAGRAM_INNER_EDGE" value="fd8979" />
     <option name="DIAGRAM_NODE_BACKGROUND" value="23262b" />
@@ -60,7 +60,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="7baafa" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="4c7598" />
     <option name="FILESTATUS_OBSOLETE" value="aa8a44" />
-    <option name="FILESTATUS_RENAMED" value="41bda7" />
+    <option name="FILESTATUS_RENAMED" value="42bda7" />
     <option name="FILESTATUS_SUPPRESSED" value="" />
     <option name="FILESTATUS_SWITCHED" value="429c8c" />
     <option name="FILESTATUS_UNKNOWN" value="e99857" />
@@ -162,7 +162,7 @@
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
@@ -172,7 +172,7 @@
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -303,12 +303,12 @@
     <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
       <value>
         <option name="FONT_TYPE" value="1" />
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option name="CONSOLE_DARKGRAY_OUTPUT">
@@ -442,12 +442,12 @@
     </option>
     <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_LINE_COMMENT" />
@@ -648,12 +648,12 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -662,7 +662,7 @@
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FONT_TYPE" value="2" />
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -690,7 +690,7 @@
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -717,13 +717,13 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option baseAttributes="" name="DEFAULT_INSTANCE_METHOD" />
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -787,7 +787,7 @@
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FONT_TYPE" value="2" />
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
@@ -1105,13 +1105,13 @@
     <option baseAttributes="" name="GO_STRING" />
     <option name="GO_STRUCT_EXPORTED_MEMBER">
       <value>
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option baseAttributes="" name="GO_STRUCT_EXPORTED_MEMBER_CALL" />
     <option name="GO_STRUCT_LOCAL_MEMBER">
       <value>
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>    
     <option baseAttributes="" name="GO_STRUCT_LOCAL_MEMBER_CALL" />
@@ -1348,7 +1348,7 @@
     <option name="Interpolated String Injection">
       <value>
         <option name="FONT_TYPE" value="1" />
-        <option name="FOREGROUND" value="74bc76" />
+        <option name="FOREGROUND" value="75bc76" />
       </value>
     </option>
     <option baseAttributes="" name="Invalid string escape" />
@@ -1361,7 +1361,7 @@
     <option baseAttributes="" name="JADE_EMBEDDED_CONTENT" />
     <option name="JADE_FILE_PATH">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option name="JADE_FILTER_NAME">
@@ -1372,7 +1372,7 @@
     </option>
     <option name="JADE_JS_BLOCK">
       <value>
-        <option name="FOREGROUND" value="e48bd2" />
+        <option name="FOREGROUND" value="e58bd3" />
       </value>
     </option>
     <option baseAttributes="" name="JADE_KEYWORD" />
@@ -1521,7 +1521,7 @@
     <option baseAttributes="" name="KOTLIN_ABSTRACT_CLASS" />
     <option name="KOTLIN_ANDROID_EXTENSIONS_PROPERTY_CALL">
       <value>
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option baseAttributes="" name="KOTLIN_ANNOTATION" />
@@ -1547,7 +1547,7 @@
     </option>
     <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
       <value>
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option baseAttributes="" name="KOTLIN_ENUM" />
@@ -1559,7 +1559,7 @@
     </option>
     <option name="KOTLIN_EXTENSION_PROPERTY">
       <value>
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option baseAttributes="" name="KOTLIN_FUNCTION_CALL" />
@@ -1701,7 +1701,7 @@
     <option baseAttributes="" name="LOCAL_VARIABLE_ATTRIBUTES" />
     <option name="LOG_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
@@ -1904,19 +1904,19 @@
     <option baseAttributes="" name="OC.STRING" />
     <option name="OC.STRUCT_FIELD">
       <value>
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option name="OC.STRUCT_LIKE">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option baseAttributes="" name="OC.TEMPLATE_TYPE" />
     <option baseAttributes="" name="OC.TEMPLATE_VALUE" />
     <option name="OC.TYPEDEF">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option baseAttributes="" name="OC.VALID_STRING_ESCAPE" />
@@ -1941,7 +1941,7 @@
       <value>
         <option name="BACKGROUND" value="253435" />
         <option name="FONT_TYPE" value="1" />
-        <option name="FOREGROUND" value="74bc76" />
+        <option name="FOREGROUND" value="75bc76" />
       </value>
     </option>
     <option baseAttributes="" name="PHP_FUNCTION" />
@@ -2059,7 +2059,7 @@
     <option baseAttributes="" name="PROTO_VALID_STRING_ESCAPE" />
     <option name="PY.ANNOTATION">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option baseAttributes="" name="PY.BRACES" />
@@ -2096,12 +2096,12 @@
     <option baseAttributes="" name="PY.PARENTHS" />
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option name="PY.PREDEFINED_USAGE">
       <value>
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option name="PY.SELF_PARAMETER">
@@ -2129,7 +2129,7 @@
     </option>
     <option name="RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option name="RAINBOW_COLOR3">
@@ -2139,7 +2139,7 @@
     </option>
     <option name="RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option baseAttributes="" name="QL_ATTRIBUTE" />
@@ -2172,7 +2172,7 @@
     <option baseAttributes="" name="QUTE_TAG_NAME" />
     <option name="RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="ea8bb4" />
+        <option name="FOREGROUND" value="eb8bb5" />
       </value>
     </option>
     <option name="RAINBOW_COLOR1">
@@ -2263,7 +2263,7 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
@@ -2273,7 +2273,7 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option baseAttributes="" name="RUBY_BAD_CHARACTER" />
@@ -2306,7 +2306,7 @@
     <option name="RUBY_HEREDOC_CONTENT">
       <value>
         <option name="FONT_TYPE" value="1" />
-        <option name="FOREGROUND" value="74bc76" />
+        <option name="FOREGROUND" value="75bc76" />
       </value>
     </option>
     <option name="RUBY_HEREDOC_ID">
@@ -2351,7 +2351,7 @@
     <option name="RUBY_REGEXP">
       <value>
         <option name="FONT_TYPE" value="1" />
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option baseAttributes="" name="RUBY_SEMICOLON" />
@@ -2376,13 +2376,13 @@
     <option name="ReSharper.ASP_NET_RAZOR_TAG_HELPER_ATTRIBUTE">
       <value>
         <option name="FONT_TYPE" value="1" />
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_RAZOR_TAG_HELPER_ELEMENT">
       <value>
         <option name="FONT_TYPE" value="1" />
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_ROUTE_TEMPLATE_PARAMETER">
@@ -2434,7 +2434,7 @@
     </option>
     <option name="ReSharper.ASSEMBLY_EXPLORER_TYPE_ELEMENT">
       <value>
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option baseAttributes="" name="ReSharper.BUILTIN_TYPE_KEYWORD" />
@@ -2456,7 +2456,7 @@
     <option baseAttributes="" name="ReSharper.CPP_COMMA" />
     <option name="ReSharper.CPP_CONCEPT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option baseAttributes="" name="ReSharper.CPP_DEPENDENT_NAME_IDENTIFIER" />
@@ -2467,7 +2467,7 @@
     <option name="ReSharper.CPP_ENUM_ENUMERATOR_IDENTIFIER">
       <value>
         <option name="FONT_TYPE" value="2" />
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option baseAttributes="" name="ReSharper.CPP_ENUM_IDENTIFIER" />
@@ -2567,7 +2567,7 @@
     <option name="ReSharper.CSHARP_STATIC_PROPERTY_IDENTIFIER">
       <value>
         <option name="FONT_TYPE" value="2" />
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option baseAttributes="" name="ReSharper.CSHARP_STRING" />
@@ -2672,7 +2672,7 @@
     </option>
     <option name="ReSharper.NAMESPACE_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option baseAttributes="" name="ReSharper.OPERATOR_IDENTIFIER" />
@@ -2710,7 +2710,7 @@
     <option baseAttributes="" name="ReSharper.ST_HYPERLINK" />
     <option name="ReSharper.ST_METHOD">
       <value>
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option baseAttributes="" name="ReSharper.ST_PATH" />
@@ -2750,7 +2750,7 @@
     </option>
     <option name="ReSharper.VIEW_CODE_BEHIND_MANAGER_HIGHLIGHTER_IDS_HIGHLIGHTER1">
       <value>
-        <option name="BACKGROUND" value="513443" />
+        <option name="BACKGROUND" value="523443" />
       </value>
     </option>
     <option baseAttributes="" name="SASS_ATTRIBUTE_NAME" />
@@ -2774,7 +2774,7 @@
     <option baseAttributes="" name="SASS_KEYWORD" />
     <option name="SASS_MIXIN">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option baseAttributes="" name="SASS_NUMBER" />
@@ -2816,7 +2816,7 @@
     <option name="SLIM_ID">
       <value>
         <option name="FONT_TYPE" value="3" />
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option baseAttributes="" name="SLIM_INTERPOLATION" />
@@ -2908,10 +2908,10 @@
     <option baseAttributes="" name="SQL_NUMBER" />
     <option name="SQL_OUTER_QUERY_COLUMN">
       <value>
-        <option name="EFFECT_COLOR" value="e894b4" />
+        <option name="EFFECT_COLOR" value="e894b5" />
         <option name="EFFECT_TYPE" value="1" />
         <option name="FONT_TYPE" value="1" />
-        <option name="FOREGROUND" value="e894b4" />
+        <option name="FOREGROUND" value="e894b5" />
       </value>
     </option>
     <option baseAttributes="" name="SQL_PARAMETER" />
@@ -3012,7 +3012,7 @@
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
@@ -3022,7 +3022,7 @@
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
@@ -3037,7 +3037,7 @@
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
@@ -3047,7 +3047,7 @@
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option name="SUGGESTION">
@@ -3111,9 +3111,9 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="ERROR_STRIPE_COLOR" value="218071" />
+        <option name="ERROR_STRIPE_COLOR" value="228071" />
         <option name="FONT_TYPE" value="2" />
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option baseAttributes="" name="TS.BADCHARACTER" />
@@ -3159,7 +3159,7 @@
     </option>
     <option name="TS.TYPE_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option baseAttributes="" name="TS.VALID_STRING_ESCAPE" />
@@ -3174,7 +3174,7 @@
     <option baseAttributes="" name="TWIG_STRING" />
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option name="TYPO">
@@ -3267,7 +3267,7 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3a2f37" />
-        <option name="ERROR_STRIPE_COLOR" value="904e6a" />
+        <option name="ERROR_STRIPE_COLOR" value="914e6a" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
@@ -3339,7 +3339,7 @@
     <option baseAttributes="" name="com.jetbrains.cmake.ARGUMENT_LITERAL" />
     <option name="com.jetbrains.cmake.ARGUMENT_PROPERTY">
       <value>
-        <option name="FOREGROUND" value="f189b4" />
+        <option name="FOREGROUND" value="f289b4" />
       </value>
     </option>
     <option baseAttributes="" name="com.jetbrains.cmake.BRACKETS" />
@@ -3467,7 +3467,7 @@
     <option baseAttributes="" name="org.rust.TYPE_ALIAS" />
     <option name="org.rust.TYPE_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="41bda7" />
+        <option name="FOREGROUND" value="42bda7" />
       </value>
     </option>
     <option baseAttributes="" name="org.rust.UNION" />
