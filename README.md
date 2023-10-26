@@ -1,5 +1,10 @@
 Implementation of [precious themes](https://github.com/precious-themes) for JetBrains' IntelliJ Platform.
 
+Installation
+------------
+
+Follow [the official installation instructions](https://www.jetbrains.com/help/idea/managing-plugins.html#install_plugin_from_disk)
+
 Building
 ---
 
