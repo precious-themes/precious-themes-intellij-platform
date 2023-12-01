@@ -256,6 +256,9 @@
       "background": "panel",
       "borderColor": "border",
       "hoverBackground": "#b8b7b619",
+      "hoverInactiveBackground": "#b8b7b619",
+      "hoverSelectedBackground": "#b8b7b600",
+      "hoverSelectedInactiveBackground": "#b8b7b600",
       "inactiveColoredFileBackground": "#b8b7b611",
       "inactiveUnderlineColor": "#596373",
       "underlineColor": "#4e80b2",
@@ -291,10 +294,12 @@
       "Header": {
         "foreground": "foreground"
       },
+      "animationBackground": "grey17",
       "background": "grey17",
       "borderColor": "grey05",
       "codeBorderColor": "grey08",
       "foreground": "foreground",
+      "imageBorderColor": "grey17",
       "linkForeground": "linkForeground",
       "shortcutBackground": "#252d34",
       "shortcutForeground": "foreground",
@@ -418,6 +423,11 @@
     },
     "NavBar": {
       "borderColor": "border"
+    },
+    "NewUiOnboarding": {
+      "Dialog": {
+        "background": "panel"
+      }
     },
     "Notification": {
       "Button": {
@@ -545,6 +555,24 @@
       "selectionBackground": "selectionBackground",
       "selectionForeground": "selectionForeground",
       "translucentBackground": "panel"
+    },
+    "PresentationAssistant": {
+      "Bright": {
+        "Popup": {
+          "border": "border",
+          "foreground": "foreground"
+        },
+        "PopupBackground": "panel",
+        "keymapLabel": "foreground"
+      },
+      "Pale": {
+        "Popup": {
+          "border": "border",
+          "foreground": "foreground"
+        },
+        "PopupBackground": "panel",
+        "keymapLabel": "foreground"
+      }
     },
     "ProgressBar": {
       "background": "panel",
@@ -1004,23 +1032,23 @@
       "Checkbox.Background.Disabled": "#212325",
       "Checkbox.Background.Disabled.Dark": "#212325",
       "Checkbox.Background.Selected": "#4e80b2",
-      "Checkbox.Background.Selected.Dark": "#1c1e20",
+      "Checkbox.Background.Selected.Dark": "#4e80b2",
       "Checkbox.Border.Default": "#575859",
       "Checkbox.Border.Default.Dark": "#575859",
       "Checkbox.Border.Disabled": "#4b4d4e",
       "Checkbox.Border.Disabled.Dark": "#4b4d4e",
       "Checkbox.Border.Selected": "#5586b9",
-      "Checkbox.Border.Selected.Dark": "#575859",
+      "Checkbox.Border.Selected.Dark": "#5586b9",
       "Checkbox.Focus.Thin.Default": "#496b90",
       "Checkbox.Focus.Thin.Default.Dark": "#496b90",
       "Checkbox.Focus.Thin.Selected": "#385371",
-      "Checkbox.Focus.Thin.Selected.Dark": "#496b90",
+      "Checkbox.Focus.Thin.Selected.Dark": "#385371",
       "Checkbox.Focus.Wide": "#325377",
       "Checkbox.Focus.Wide.Dark": "#325377",
       "Checkbox.Foreground.Disabled": "#5b5c5d",
       "Checkbox.Foreground.Disabled.Dark": "#5b5c5d",
       "Checkbox.Foreground.Selected": "#1c1e20",
-      "Checkbox.Foreground.Selected.Dark": "#b8b7b6",
+      "Checkbox.Foreground.Selected.Dark": "#1c1e20",
       "Objects.BlackText": "#b8b7b6",
       "Objects.Blue": "#3e81b9",
       "Objects.Green": "#5b8b3d",

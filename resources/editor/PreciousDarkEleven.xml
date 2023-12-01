@@ -1333,6 +1333,12 @@
         <option name="BACKGROUND" value="2a2932" />
       </value>
     </option>
+    <option name="INLINE_SUGGESTION">
+      <value>
+        <option name="FOREGROUND" value="858585"/>
+        <option name="FONT_TYPE" value="2"/>
+      </value>
+    </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option baseAttributes="" name="INSTANCE_FINAL_FIELD_ATTRIBUTES" />
     <option baseAttributes="" name="INTERFACE_NAME_ATTRIBUTES" />

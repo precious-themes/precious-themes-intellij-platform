@@ -256,6 +256,9 @@
       "background": "panel",
       "borderColor": "border",
       "hoverBackground": "#4e535919",
+      "hoverInactiveBackground": "#4e535919",
+      "hoverSelectedBackground": "#4e535900",
+      "hoverSelectedInactiveBackground": "#4e535900",
       "inactiveColoredFileBackground": "#4e535911",
       "inactiveUnderlineColor": "#a1aab7",
       "underlineColor": "#6395c8",
@@ -291,10 +294,12 @@
       "Header": {
         "foreground": "foreground"
       },
+      "animationBackground": "grey17",
       "background": "grey17",
       "borderColor": "grey05",
       "codeBorderColor": "grey08",
       "foreground": "foreground",
+      "imageBorderColor": "grey17",
       "linkForeground": "linkForeground",
       "shortcutBackground": "#e6e6e3",
       "shortcutForeground": "foreground",
@@ -418,6 +423,11 @@
     },
     "NavBar": {
       "borderColor": "border"
+    },
+    "NewUiOnboarding": {
+      "Dialog": {
+        "background": "panel"
+      }
     },
     "Notification": {
       "Button": {
@@ -545,6 +555,24 @@
       "selectionBackground": "selectionBackground",
       "selectionForeground": "selectionForeground",
       "translucentBackground": "panel"
+    },
+    "PresentationAssistant": {
+      "Bright": {
+        "Popup": {
+          "border": "border",
+          "foreground": "foreground"
+        },
+        "PopupBackground": "panel",
+        "keymapLabel": "foreground"
+      },
+      "Pale": {
+        "Popup": {
+          "border": "border",
+          "foreground": "foreground"
+        },
+        "PopupBackground": "panel",
+        "keymapLabel": "foreground"
+      }
     },
     "ProgressBar": {
       "background": "panel",
