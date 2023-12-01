@@ -590,11 +590,11 @@
     "RunWidget": {
       "foreground": "black",
       "hoverBackground": "#bab9b619",
-      "iconColor": "white",
+      "iconColor": "grey01",
       "pressedBackground": "#bab9b628",
       "runIconColor": "#5e8e41",
       "runningBackground": "#73892d",
-      "runningIconColor": "white",
+      "runningIconColor": "grey01",
       "stopBackground": "#da6c67"
     },
     "ScrollBar": {
