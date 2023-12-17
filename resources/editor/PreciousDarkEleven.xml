@@ -622,6 +622,26 @@
         <option name="FOREGROUND" value="b6794b" />
       </value>
     </option>
+    <option name="DEBUGGER_PREDICTED_VALUE_FALSE">
+      <value>
+        <option name="BACKGROUND" value="382827" />
+      </value>
+    </option>
+    <option name="DEBUGGER_PREDICTED_VALUE_FALSE_ALT">
+      <value>
+        <option name="BACKGROUND" value="422b2a" />
+      </value>
+    </option>
+    <option name="DEBUGGER_PREDICTED_VALUE_TRUE">
+      <value>
+        <option name="BACKGROUND" value="272f23" />
+      </value>
+    </option>
+    <option name="DEBUGGER_PREDICTED_VALUE_TRUE_ALT">
+      <value>
+        <option name="BACKGROUND" value="2d3525" />
+      </value>
+    </option>
     <option name="DEBUGGER_SMART_STEP_INTO_SELECTION">
       <value>
         <option name="BACKGROUND" value="513a66" />
@@ -633,6 +653,13 @@
       <value>
         <option name="BACKGROUND" value="362c42" />
         <option name="FOREGROUND" value="b8b7b6" />
+      </value>
+    </option>
+    <option name="DEBUGGER_UNREACHABLE_DECORATION">
+      <value>
+        <option name="FOREGROUND" value="858585" />
+        <option name="EFFECT_COLOR" value="2c2b39" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
@@ -806,7 +833,7 @@
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
-        <option name="BACKGROUND" value="1e232a" />
+        <option name="BACKGROUND" value="1e262c" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -874,6 +901,7 @@
     <option baseAttributes="" name="DJANGO_STRING_LITERAL" />
     <option baseAttributes="" name="DJANGO_TAG_NAME" />
     <option baseAttributes="" name="DJANGO_TAG_START_END" />
+    <option name="DOC_TEMPLATE_PARAMETER" baseAttributes="PHP_CLASS" />
     <option baseAttributes="" name="DOCKER_BRACKETS" />
     <option baseAttributes="" name="DOCKER_COMMA" />
     <option baseAttributes="" name="DOCKER_COMMENTS" />
@@ -1211,12 +1239,12 @@
     <option baseAttributes="" name="HTTP_REQUEST_NAME" />
     <option name="HTTP_REQUEST_PARAMETER_NAME">
       <value>
-        <option name="FOREGROUND" value="a2b780" />
+        <option name="FOREGROUND" value="a7b252" />
       </value>
     </option>
     <option name="HTTP_REQUEST_PARAMETER_VALUE">
       <value>
-        <option name="FOREGROUND" value="7dbbad" />
+        <option name="FOREGROUND" value="51be95" />
       </value>
     </option>
     <option baseAttributes="" name="HTTP_REQUEST_SEPARATOR" />
@@ -1296,7 +1324,7 @@
     <option baseAttributes="" name="INI.VALUE" />
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="232d27" />
+        <option name="BACKGROUND" value="212d27" />
       </value>
     </option>
     <option name="INLAY_DEFAULT">
@@ -1443,6 +1471,11 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.JSX_CLIENT_COMPONENT">
+      <value>
+        <option name="FOREGROUND" value="8ea5fe" />
+      </value>
+    </option>
     <option baseAttributes="" name="JS.INSTANCE_MEMBER_VARIABLE" />
     <option baseAttributes="" name="JS.INTERFACE" />
     <option baseAttributes="" name="JS.INVALID_STRING_ESCAPE" />
@@ -1606,17 +1639,17 @@
     <option baseAttributes="" name="KOTLIN_SEMICOLON" />
     <option name="KOTLIN_SMART_CAST_RECEIVER">
       <value>
-        <option name="BACKGROUND" value="212d26" />
+        <option name="BACKGROUND" value="212d27" />
       </value>
     </option>
     <option name="KOTLIN_SMART_CAST_VALUE">
       <value>
-        <option name="BACKGROUND" value="212d26" />
+        <option name="BACKGROUND" value="212d27" />
       </value>
     </option>
     <option name="KOTLIN_SMART_CONSTANT">
       <value>
-        <option name="BACKGROUND" value="212d26" />
+        <option name="BACKGROUND" value="212d27" />
       </value>
     </option>
     <option baseAttributes="" name="KOTLIN_STRING" />
@@ -1708,19 +1741,19 @@
     <option name="LOGCAT_FILTER_KEY">
       <value>
         <option name="FOREGROUND" value="b8b7b6" />
-        <option name="BACKGROUND" value="232d27" />
+        <option name="BACKGROUND" value="212d27" />
       </value>
     </option>
     <option name="LOGCAT_FILTER_KVALUE">
       <value>
         <option name="FOREGROUND" value="b8b7b6" />
-        <option name="BACKGROUND" value="232d27" />
+        <option name="BACKGROUND" value="212d27" />
       </value>
     </option>
     <option name="LOGCAT_FILTER_REGEX_KVALUE">
       <value>
         <option name="FOREGROUND" value="b8b7b6" />
-        <option name="BACKGROUND" value="232d27" />
+        <option name="BACKGROUND" value="212d27" />
       </value>
     </option>
     <option name="LOGCAT_FILTER_STRING_KVALUE">
@@ -1895,6 +1928,12 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="MARK_COMMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="538a55" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="13454f" />
@@ -1926,6 +1965,7 @@
       </value>
     </option>
     <option baseAttributes="" name="Method call" />
+    <option name="NG.SIGNAL" baseAttributes="TS.INSTANCE_MEMBER_FUNCTION" />
     <option baseAttributes="" name="NG.BANANA_BINDING_ATTR_NAME" />
     <option baseAttributes="" name="NG.EVENT_BINDING_ATTR_NAME" />
     <option baseAttributes="" name="NG.EXPANSION_FORM" />
@@ -2318,32 +2358,32 @@
     <option baseAttributes="" name="RHTML_COMMENT_ID" />
     <option name="RHTML_EXPRESSION_END_ID">
       <value>
-        <option name="BACKGROUND" value="292b2d" />
+        <option name="BACKGROUND" value="242628" />
       </value>
     </option>
     <option name="RHTML_EXPRESSION_START_ID">
       <value>
-        <option name="BACKGROUND" value="292b2d" />
+        <option name="BACKGROUND" value="242628" />
       </value>
     </option>
     <option name="RHTML_OMIT_NEW_LINE_ID">
       <value>
-        <option name="BACKGROUND" value="2d2926" />
+        <option name="BACKGROUND" value="292421" />
       </value>
     </option>
     <option name="RHTML_SCRIPTING_BACKGROUND_ID">
       <value>
-        <option name="BACKGROUND" value="2d2926" />
+        <option name="BACKGROUND" value="292421" />
       </value>
     </option>
     <option name="RHTML_SCRIPTLET_END_ID">
       <value>
-        <option name="BACKGROUND" value="2d2926" />
+        <option name="BACKGROUND" value="292421" />
       </value>
     </option>
     <option name="RHTML_SCRIPTLET_START_ID">
       <value>
-        <option name="BACKGROUND" value="2d2926" />
+        <option name="BACKGROUND" value="292421" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -2424,8 +2464,8 @@
     </option>
     <option name="RUBY_LOCAL_VAR_ID">
       <value>
+        <option name="FOREGROUND" value="42bda7" />
         <option name="FONT_TYPE" value="2" />
-        <option name="FOREGROUND" value="7dbbad" />
       </value>
     </option>
     <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
@@ -2439,8 +2479,8 @@
     <option baseAttributes="" name="RUBY_PARAMDEF_CALL" />
     <option name="RUBY_PARAMETER_ID">
       <value>
+        <option name="FOREGROUND" value="42bda7" />
         <option name="FONT_TYPE" value="2" />
-        <option name="FOREGROUND" value="7dbbad" />
       </value>
     </option>
     <option baseAttributes="" name="RUBY_PARENTHESES" />
@@ -2672,7 +2712,7 @@
     <option baseAttributes="" name="ReSharper.CSHARP_TYPE_PARAMETER_IDENTIFIER" />
     <option name="ReSharper.DEBUGGER_EDIT_CONTINUE_UNABLE_TO_APPLY_CHANGES">
       <value>
-        <option name="EFFECT_COLOR" value="db6ec2" />
+        <option name="EFFECT_COLOR" value="dc6dc3" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -2927,6 +2967,11 @@
     <option baseAttributes="" name="SLIM_TAG" />
     <option baseAttributes="" name="SLIM_TAG_ATTR_KEY" />
     <option baseAttributes="" name="SLIM_TAG_START" />
+    <option name="SONARLINT_SELECTED">
+      <value>
+        <option name="BACKGROUND" value="1e2c31" />
+      </value>
+    </option>
     <option baseAttributes="" name="SMARTY_BACKGROUND" />
     <option baseAttributes="" name="SMARTY_BAD_CHARACTER" />
     <option baseAttributes="" name="SMARTY_BRACKETS" />
@@ -2956,19 +3001,19 @@
     <option baseAttributes="" name="SPEL.STRING" />
     <option name="SPY-JS.EXCEPTION">
       <value>
-        <option name="BACKGROUND" value="4b2c30" />
+        <option name="BACKGROUND" value="342626" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="SPY-JS.FUNCTION_SCOPE">
       <value>
-        <option name="BACKGROUND" value="1e2014" />
+        <option name="BACKGROUND" value="2a2a20" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="SPY-JS.PATH_LEVEL_ONE">
       <value>
-        <option name="BACKGROUND" value="16251b" />
+        <option name="BACKGROUND" value="232c24" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -2980,7 +3025,7 @@
     </option>
     <option name="SPY-JS.PROGRAM_SCOPE">
       <value>
-        <option name="BACKGROUND" value="1e2014" />
+        <option name="BACKGROUND" value="2a2a20" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -3165,7 +3210,7 @@
     </option>
     <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
       <value>
-        <option name="BACKGROUND" value="262d22" />
+        <option name="BACKGROUND" value="252c22" />
       </value>
     </option>
     <option name="TEXT">
@@ -3250,7 +3295,7 @@
     <option baseAttributes="" name="TS.TYPE.ALIAS" />
     <option name="TS.TYPE_GUARD">
       <value>
-        <option name="BACKGROUND" value="212d26" />
+        <option name="BACKGROUND" value="212d27" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">
@@ -3569,7 +3614,7 @@
     <option baseAttributes="" name="org.rust.UNION" />
     <option name="org.rust.UNSAFE_CODE">
       <value>
-        <option name="BACKGROUND" value="2e2a22" />
+        <option name="BACKGROUND" value="292421" />
       </value>
     </option>
     <option baseAttributes="" name="org.rust.VALID_STRING_ESCAPE" />
