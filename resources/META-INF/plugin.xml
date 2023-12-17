@@ -1,7 +1,7 @@
 <idea-plugin url="https://github.com/precious-themes/precious-themes-intellij-platform">
   <name>Precious Themes</name>
   <id>com.4lex4.precious-themes-intellij-platform</id>
-  <version>233.1</version>
+  <version>233.2</version>
   <vendor email="4lex49@zoho.com">4lex4</vendor>
   <category>UI</category>
   <description>
@@ -15,7 +15,7 @@
     <![CDATA[
     <p>
       <ul>
-        <li>Update palette</li>
+        <li>Editor themes improvements</li>
       </ul>
     </p>
     ]]>
