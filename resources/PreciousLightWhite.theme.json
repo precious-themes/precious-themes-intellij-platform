@@ -147,6 +147,22 @@
       "selectionBackground": "selectionBackground",
       "selectionForeground": "selectionForeground"
     },
+    "Code": {
+      "Block": {
+        "EditorPane": {
+          "backgroundColor": "#717482",
+          "backgroundOpacity": 4,
+          "borderColor": "#f0f1f5"
+        },
+        "backgroundColor": "#717482",
+        "backgroundOpacity": 4,
+        "borderColor": "#f0f1f5"
+      },
+      "Inline": {
+        "backgroundColor": "#717482",
+        "backgroundOpacity": 7
+      }
+    },
     "ColorChooser": {
       "background": "panel",
       "foreground": "foreground",
@@ -274,6 +290,11 @@
       "Violet": "#f0edff",
       "Yellow": "#f4efe3"
     },
+    "FlameGraph.Tooltip": {
+      "foreground": "foreground",
+      "scaleBackground": "grey14",
+      "scaleColor": "#b0d1ef"
+    },
     "FormattedTextField": {
       "background": "contentBackground",
       "caretForeground": "foreground",
@@ -339,6 +360,22 @@
       },
       "shortcutBackground": "#e7eff8",
       "stepNumberForeground": "infoPanelForeground"
+    },
+    "LineProfiler": {
+      "HotLine": {
+        "foreground": "#af4947",
+        "hoverBackground": "#f7ceca",
+        "labelBackground": "#f9e6e4"
+      },
+      "IgnoredLine": {
+        "foreground": "grey06",
+        "labelBackground": "grey12"
+      },
+      "Line": {
+        "foreground": "#747a7c",
+        "hoverBackground": "grey09",
+        "labelBackground": "grey12"
+      }
     },
     "Link": {
       "activeForeground": "linkForeground",
@@ -572,6 +609,36 @@
         },
         "PopupBackground": "panel",
         "keymapLabel": "foreground"
+      }
+    },
+    "Profiler": {
+      "ChartSlider": {
+        "foreground": "foreground",
+        "lineColor": "#b2b2b2"
+      },
+      "CpuChart": {
+        "background": "#6da25b4D",
+        "borderColor": "#6da25b",
+        "inactiveBackground": "#6da25b33",
+        "inactiveBorderColor": "#b1c7a9",
+        "pointBackground": "#6da25b",
+        "pointBorderColor": "#ffffff"
+      },
+      "LiveChart": {
+        "horizontalAxisColor": "#727272"
+      },
+      "MemoryChart": {
+        "background": "#5099d680",
+        "borderColor": "#5099d6",
+        "inactiveBackground": "#5099d633",
+        "inactiveBorderColor": "#a7c4de",
+        "pointBackground": "#5099d6",
+        "pointBorderColor": "#ffffff"
+      },
+      "Timer": {
+        "background": "grey15",
+        "disabledForeground": "grey02",
+        "foreground": "foreground"
       }
     },
     "ProgressBar": {
@@ -1015,18 +1082,34 @@
   },
   "icons": {
     "ColorPalette": {
+      "Blue.Fill": "#ebf2f8",
+      "Blue.Solid": "#5099d6",
+      "Blue.Stroke": "#3483c1",
+      "Gray.Fill": "#eeeeee",
+      "Gray.SecondaryStroke": "#b5b5b5",
+      "Gray.Stroke": "#6c6c6c",
+      "Green.Fill": "#edf2eb",
+      "Green.Solid": "#6da25b",
+      "Green.Stroke": "#568c42",
+      "Orange.Fill": "#f7efea",
+      "Orange.Stroke": "#b76c2b",
+      "Purple.Fill": "#f2effc",
+      "Purple.Stroke": "#8f64e3",
+      "Red.Fill": "#f9eeed",
+      "Red.Solid": "#db7570",
+      "Red.Stroke": "#c65e5b",
+      "Teal.Fill": "#ebf2f0",
+      "Teal.Stroke": "#2e8d7c",
+      "Yellow.Fill": "#f4f1ea",
+      "Yellow.Solid": "#b19044",
+      "Yellow.Stroke": "#9d7a25",
       "Actions.Blue": "#5099d6",
-      "Actions.Blue.Dark": "#5099d6",
       "Actions.Green": "#6da25b",
-      "Actions.Green.Dark": "#6da25b",
       "Actions.Grey": "#7d7d7d",
-      "Actions.Grey.Dark": "#7d7d7d",
       "Actions.GreyInline": "#878f98",
       "Actions.GreyInline.Dark": "#878f98",
       "Actions.Red": "#db7570",
-      "Actions.Red.Dark": "#db7570",
       "Actions.Yellow": "#b19044",
-      "Actions.Yellow.Dark": "#b19044",
       "Checkbox.Background.Default": "#ffffff",
       "Checkbox.Background.Default.Dark": "#ffffff",
       "Checkbox.Background.Disabled": "#f8f8f8",
@@ -1052,7 +1135,6 @@
       "Objects.BlackText": "#555555",
       "Objects.Blue": "#5099d6",
       "Objects.Green": "#6da25b",
-      "Objects.GreenAndroid": "#7f9f46",
       "Objects.Grey": "#878f98",
       "Objects.Pink": "#d46cbe",
       "Objects.Purple": "#a37cf6",
@@ -1060,8 +1142,7 @@
       "Objects.RedStatus": "#db7570",
       "Objects.Yellow": "#b19044",
       "Objects.YellowDark": "#cc8348",
-      "Tree.iconColor": "#848484",
-      "Tree.iconColor.Dark": "#848484"
+      "Tree.iconColor": "#848484"
     }
   }
 }

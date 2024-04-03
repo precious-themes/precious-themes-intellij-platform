@@ -121,6 +121,9 @@
     <option name="ScrollBar.Mac.thumbBorderColor" value="b8b7b633" />
     <option name="ScrollBar.Mac.thumbColor" value="b8b7b633" />
     <option name="ScrollBar.Mac.trackColor" value="85858500" />
+    <option name="Scrollbar.Tabs.TransparentThumbColor" value="5b5c5d00"/>
+    <option name="Scrollbar.Tabs.ThumbColor" value="5b5c5dff"/>
+    <option name="Scrollbar.Tabs.HoveredThumbColor" value="858585ff"/>
     <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="95959447" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="8a8a8a47" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="8585851a" />
@@ -407,12 +410,20 @@
     <option baseAttributes="" name="CSS.CLASS_NAME" />
     <option baseAttributes="" name="CSS.COLON" />
     <option baseAttributes="" name="CSS.COLOR" />
+    <option name="CSS.IDENT">
+      <value />
+    </option>
+    <option name="CSS.IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="b799fe" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option baseAttributes="" name="CSS.COMMA" />
     <option baseAttributes="" name="CSS.COMMENT" />
     <option baseAttributes="" name="CSS.DOT" />
     <option baseAttributes="" name="CSS.FUNCTION" />
     <option baseAttributes="" name="CSS.HASH" />
-    <option baseAttributes="" name="CSS.IDENT" />
     <option baseAttributes="" name="CSS.IMPORTANT" />
     <option baseAttributes="" name="CSS.KEYWORD" />
     <option baseAttributes="" name="CSS.NUMBER" />
@@ -2253,6 +2264,11 @@
     <option baseAttributes="" name="PY.STRING.U" />
     <option baseAttributes="" name="PY.VALID_STRING_ESCAPE" />
     <option baseAttributes="" name="Parentheses" />
+    <option name="PY.TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="42bda7" />
+      </value>
+    </option>
     <option name="RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="b799fe" />
@@ -2837,6 +2853,32 @@
     <option baseAttributes="" name="ReSharper.ReSharper.ShaderLab_LINE_COMMENT" />
     <option baseAttributes="" name="ReSharper.ReSharper.ShaderLab_NUMBER" />
     <option baseAttributes="" name="ReSharper.ReSharper.ShaderLab_STRING" />
+    <option name="ReSharper.ReSharper.ShaderLab_DISABLED_SHADER_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="bbac4b" />
+      </value>
+    </option>
+    <option name="ReSharper.ReSharper.ShaderLab_ENABLED_SHADER_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="bbac4b" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="bbac4b" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.ReSharper.ShaderLab_IMPLICITLY_ENABLED_SHADER_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="bbac4b" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.ReSharper.ShaderLab_SUPPRESSED_SHADER_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="bbac4b" />
+        <option name="EFFECT_COLOR" value="bbac4b" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="ReSharper.STRING_ESCAPE_CHARACTER_2">
       <value>
         <option name="FOREGROUND" value="68b0ee" />
@@ -3206,6 +3248,12 @@
       <value>
         <option name="FONT_TYPE" value="2" />
         <option name="FOREGROUND" value="d78cf3" />
+      </value>
+    </option>
+    <option name="TERMINAL_CLASS_NAME_LOG_REFERENCE">
+      <value>
+        <option name="EFFECT_COLOR" value="858585" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
